@@ -41,7 +41,7 @@ You can also view all the public [team members](https://github.com/orgs/expressj
 
 - [dougwilson](https://github.com/dougwilson) - current lead maintainer of [Express][express]
   and [Connect][connect]. Maintains much of Connect 2.x/Express 3.x's middleware
-  as well as many tiny modules. A stickler for RFC-compliance.
+  as well as many tiny modules. A stickler for RFC-compliance, tests, and code-coverage.
 - [jonathanong](https://github.com/jonathanong) - maintains many of the core modules
   as well as [Koa][koa]
 - [fishrock123](https://github.com/fishrock123) - administrates and book-keeps
