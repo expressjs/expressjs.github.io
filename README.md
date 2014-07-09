@@ -38,7 +38,7 @@ ignored pull requests, or a single, overbearing czar.
 
 These modules need maintainers.
 If you're interested in maintaining one of these modules,
-please let one of the team members know!
+please start contributing by making PRs and solving / discussing unsolved issues.
 
 - [express-session](https://github.com/expressjs/session) - maintained, but needs a rewrite
 - [express-resource](https://github.com/expressjs/express-resource)
