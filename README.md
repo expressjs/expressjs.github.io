@@ -34,6 +34,19 @@ as the original author is largely irrelevant if s/he no longer maintains the pro
 With organizations, users won't have to worry about code rot,
 ignored pull requests, or a single, overbearing czar.
 
+## Call for Maintainers
+
+These modules need maintainers.
+If you're interested in maintaining one of these modules,
+please let one of the team members know!
+
+- [express-session](https://github.com/expressjs/session) - maintained, but needs a rewrite
+- [express-resource](https://github.com/expressjs/express-resource)
+- [express-expose](https://github.com/expressjs/express-expose)
+- [express-messages](https://github.com/expressjs/express-messages)
+- [express-namespace](https://github.com/expressjs/express-namespace)
+- [express-params](https://github.com/expressjs/express-params)
+
 ## Team
 
 These are the core team members, those that actively maintain more than one module.
